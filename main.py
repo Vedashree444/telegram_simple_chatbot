@@ -1,5 +1,5 @@
 from telegram.ext import Updater
-token='778715114:AAHCZfCTX8_KExipcOkL5iUUXUWKn8kj8Tg'
+token=''
 
 import requests
 import datetime
