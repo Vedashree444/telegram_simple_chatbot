@@ -1,1 +1,1 @@
-# telegram_simple_chatbot
+# telegram_chatbot
