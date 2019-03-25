@@ -1,5 +1,4 @@
 from telegram.ext import Updater
-token=''
 
 import requests
 import datetime
